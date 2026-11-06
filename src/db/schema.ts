@@ -6,7 +6,7 @@ import { DEFAULT_SETTINGS } from "@/lib/constants";
 // =============================================================================
 //
 // WHY: Better Auth needs these tables to store users, sessions, accounts, and
-// verification tokens. Unlike NextAuth, Better Auth uses a more explicit schema.
+// verification tokens.
 //
 // TABLES:
 //   - user: Core user data (id, name, email, image)
